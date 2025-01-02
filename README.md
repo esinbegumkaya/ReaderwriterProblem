@@ -22,3 +22,5 @@ The Reader-Writer problem is a synchronization challenge where:
    ```bash
    git clone https://github.com/username/Reader-Writer-Problem-Java.git
    cd Reader-Writer-Problem-Java
+## Output
+![Example Output](Resim111.png)
